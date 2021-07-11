@@ -1,0 +1,13 @@
+.myButtonStyles {
+    padding: 10px;
+    border-radius: 4px;
+    border: none;
+    background-color: steelblue;
+}
+
+.myTextStyles {
+    font-size: large;
+    font-weight: bold;
+    color: steelblue
+}
+.myHeading{color:#008b8b}
